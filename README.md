@@ -19,7 +19,7 @@ To access the Trojan Interface visit [app.trojan.finance](https://app.trojan.fin
 
 Trojan Finance Interface is based on Uniswap Interface, we had removed features that we dont use for now, like Pools, Votes, Staking, V1 Trades.
 
-We are publishing our interface code very soon so **users can check it and trust that we follow the same way Uniswap works with wallets, in a secure way**
+We are publishing our interface code very soon so **users can check it and trust that we follow the same way Uniswap works with wallets, in a secure way**. 
 We will be updating any updates from Uniswap repository as soon as we can.
 
 **Anyway use at your own risk. This is a beta version** and we are still improving our mempool scanner, decoder, compute and predictions.

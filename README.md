@@ -25,35 +25,6 @@ We have opened this repository so **users can check this and trust that we follo
 
 **Anyway use at your own risk. This is a beta version** and we are still improving our mempool scanner, decoder, compute and predictions.
 
-# Development
-
-Check the code by yourself. Download or clone this repository.
-
-```bash
-git clone https://github.com/we-commit/app-trojan-finance.git
-```
-
-## Install Dependencies
-
-```bash
-yarn
-```
-
-## Run
-
-```bash
-yarn dev
-```
-
-## Configuring the environment (optional)
-
-Note that the interface only works on main net. The interface will not work on other networks.
-We only **scan, compute and predict trades** for Ethereum mainnet.
-
-- Make a copy of `.env` named `.env.local`
-
-For now, **in beta phase**, we listen Uniswap transactions for a couple of tokens.
-
 # Proposals
 
 We are working hard to get this working. Trojan Finance is under active development.
